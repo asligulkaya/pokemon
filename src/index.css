@@ -26,6 +26,11 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  font-family: "Flexo-Regular", arial, sans-serif;
+  font-size: 16px;
+  color: #fff;
+  height: 100%;
+  background: #424242 url("./assets/body_bg.png");
 }
 
 h1 {
